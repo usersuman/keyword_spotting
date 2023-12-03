@@ -1,0 +1,21 @@
+file_name,key
+./inputs/Voice 001.wav,up
+./inputs/Voice 002.wav,down
+./inputs/Voice 003.wav,go
+./inputs/Voice 004.wav,up
+./inputs/Voice 005.wav,go
+./inputs/Voice 006.wav,down
+./inputs/Voice 007.wav,up
+./inputs/Voice 008.wav,stop
+./inputs/Voice 009.wav,stop
+./inputs/Voice 010.wav,go
+./inputs/wv1.wav,go
+./inputs/wv2.wav,stop
+./inputs/wv3.wav,go
+./inputs/wv4.wav,up
+./inputs/wv5.wav,go
+./inputs/wv6.wav,up
+./inputs/wv7.wav,stop
+./inputs/wv8.wav,go
+./inputs/wv9.wav,down
+./inputs/wv10.wav,go
